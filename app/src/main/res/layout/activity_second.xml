@@ -27,7 +27,7 @@
             android:layout_alignParentTop="true"
             android:layout_alignRight="@+id/hotkey3"
             android:layout_marginTop="26dp"
-            android:text="Enter Phrase Here"
+            android:hint="Enter Phrase Here"
             android:textAlignment="center"
             android:textSize="30sp"
             android:textStyle="italic" />

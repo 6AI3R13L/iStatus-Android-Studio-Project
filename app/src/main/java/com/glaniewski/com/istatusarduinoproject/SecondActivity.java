@@ -26,7 +26,7 @@ public class SecondActivity extends MainActivity {
 
         // Capture the layout's TextView and set the string as its text
         TextView textView = (TextView) findViewById(R.id.infoCard);
-        textView.setText(name);
+        textView.setText("Sign in as: " + name);
 
     }
 }
